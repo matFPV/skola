@@ -1,0 +1,22 @@
+REZISTORY
+	OHMUV ZAKON	U = I x R
+	Sériově	  :  sčítáme odpor
+	Paralelně :  sčítáme převrácenou hodnotu odporu
+
+	VLASTNOSŤI:
+		ODPOR -- jednotka=ohm -- značka R
+		MAXIMÁLNÍ ZAŤÍŽITELNOST
+
+KONEDENZÁTORY
+	Sériově	 : sčítáme napěťí
+	Paralelně: sčítáme kapacitu
+		KAPACITA -- jednotka=farad -- C
+	kapacita podle plochy (S), permitivity(E) a vzdálenosti ploch(d) -- C=E x S/d
+	dielektrikum=izolant
+	relativní permitivita vákua:   8,854 187 8128×10^−12
+	 Coulomb je 6,241 x 10^18 elektronů 
+
+CÍVKY
+	Vlastnosti:
+		Indukčnost = schopnost vytvářet magnetiské pole
+		Maximální zatížitelnost (W -- watt)
