@@ -7,7 +7,7 @@ REZISTORY
 		ODPOR -- jednotka=ohm -- značka R
 		MAXIMÁLNÍ ZAŤÍŽITELNOST
 
-KONEDENZÁTORY
+KONDENZÁTORY
 	Sériově	 : sčítáme napěťí
 	Paralelně: sčítáme kapacitu
 		KAPACITA -- jednotka=farad -- C
