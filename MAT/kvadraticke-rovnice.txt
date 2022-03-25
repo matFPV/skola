@@ -1,0 +1,17 @@
+	linearni rocnice: (system of linear equations)
+	
+	x+2y=5
+	2x+y=7
+2(5-2y)+y=7
+10-4y+y=7
+-3y=-3
+ y=1
+x+2=5		| x=3
+ x=3		| y=1
+
+
+
+
+
+
+
